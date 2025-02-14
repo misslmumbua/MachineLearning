@@ -25,7 +25,3 @@ def predict():
     return jsonify({"sentiment": "Positive" if prediction == 1 else "Negative", "confidence": f"{confidence:.2f}%"})
 
 app.run(host="0.0.0.0", port=5000)
-
-
-
-

@@ -1,0 +1,11 @@
+# Core Python Libraries
+Flask==3.1.0  # Web framework
+pandas==2.2.3  # Data handling
+numpy==2.2.1  # Numerical computations
+scikit-learn==1.6.1  # Machine Learning
+scipy==1.15.1  # Scientific computing
+nltk==3.9.1  # Natural Language Processing
+matplotlib==3.10.0  # Data visualization
+requests==2.32.3  # API requests handling
+tqdm==4.67.1  # Progress bar (useful for training)
+Werkzeug==3.1.3  # Flask security and routing
